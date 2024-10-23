@@ -11,4 +11,5 @@ O contrato único e oficial deste projeto, deste token é: 0x7B9da731D618ef2C689
 Bons trades e holds. Venceremos o Estado que nos fizeram vítimas ainda antes de nascer.
 
 
-                                                          <strong> Nosso Papel-Branco (não se preocupem, escrevemos intencionalmente assim) </strong>
+
+<strong> Nosso Papel-Branco (não se preocupem, escrevemos intencionalmente assim) </strong>
