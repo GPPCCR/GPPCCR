@@ -13,3 +13,20 @@ Bons trades e holds. Venceremos o Estado que nos fizeram vítimas ainda antes de
 
 
 <strong> Nosso Papel-Branco (não se preocupem, escrevemos intencionalmente assim) </strong>
+
+<strong>Primeira Etapa:</strong>
+Criação do token
+
+<strong>Segunda Etapa:</strong>
+Testes e updates
+1º$ - : Resultados de testes disponíveis na BSCscam
+
+<strong>Teceira Etapa:</strong>
+Divulgação
+
+<strong>Quarta Etapa:</strong>
+Pré-venda
+Airdrop
+
+<strong>Quinta Etapa (Última):</strong>
+Abertura de negociações
