@@ -32,16 +32,17 @@ Bons trades e holds. Venceremos o Estado que nos fizeram vítimas ainda antes de
                                                          Prezamos por clareza neste projeto e isso ajudará a mantê-lo com foco no objetivo da comunidade
 
 
-
-<strong>Primeira Etapa:</strong>
+<p></p>
+<strong>Primeira Etapa:</strong> <p></p>
 Criação do token
 <p></p>
 Oct-13-2024 04:01:00 PM UTC
 
 
 <hr>
-<strong>Segunda Etapa:</strong>
+<strong>Segunda Etapa:</strong> <p></p>
 Testes e updates
+<p></p>
 1º$ - : Resultados de testes disponíveis na BSCscam
 <p></p>
 DE: Oct-13-2024 04:01:00 PM UTC
@@ -49,14 +50,15 @@ ATÉ: Oct-24-2024 05:00:00 PM UTC
 
 
 <hr>
-<strong>Teceira Etapa:</strong>
-Divulgação
+<strong>Teceira Etapa:</strong> <p></p>
+Divulgação <p></p>
 Oct-25-2024 01:00:00 AM UTC
 
 
 <hr>
-<strong>Quarta Etapa:</strong>
+<strong>Quarta Etapa:</strong> <p></p>
 Pré-venda: Oct-25-2024 01:00:00 AM UTC
+<p></p>
 Airdrop: Aguardando Condições...
 
 
