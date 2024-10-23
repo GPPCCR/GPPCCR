@@ -16,18 +16,18 @@ Bons trades e holds. Venceremos o Estado que nos fizeram vítimas ainda antes de
 
 <strong>Perguntas:</strong>
 
-                                                                                                O que diferencia este projeto?
+                                                                                                O que diferencía este projeto?
 
                                                           0 movimentações na carteira provedora de liquidez, isso trás mais clareza e credibilidade para o projeto
 
                                                                                                 E a liquidez ?
 
-                                                         TODOS os projetos de criptomoedas os valores da liqudez são sacados por seus criadores,
+                                                         TODOS os projetos de criptomoedas de comunidade e meme ou shitcoins os valores da liqudez são sacados por seus criadores,
                                                                este projeto ficará mantido apenas por repasse de taxas de transações, sempre mantendo o valor de liquidez estável
 
                                                                                                 Importante!!!
                                                                                                 
-                                                         Este projeto contará com apenas 750.000/1.000.000 de tokens disponíveis para negociação.
+                                                         Este projeto contará com apenas 750.000/1.000.000 de tokens disponíveis para negociação (75%).
                                                          Todo restante será mantido para alimentação de pool e ficará intacto.
                                                          Prezamos por clareza neste projeto e isso ajudará a mantê-lo com foco no objetivo da comunidade
 
