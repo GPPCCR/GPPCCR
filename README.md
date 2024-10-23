@@ -7,10 +7,9 @@
 - ⚡ Fun fact: ...
 
 <!---
-GPPCCR/GPPCCR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+GPPCCR/GPPCCR is a ✨ special ✨ 
 --->
-Olá, bom ter vocês aqui.
+<strong> Olá, bom ter vocês aqui. /strong> 
 Vamos falar deste projeto
 
 Porque migrá-lo para uma conta nova no github ?
