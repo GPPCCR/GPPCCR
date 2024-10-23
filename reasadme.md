@@ -14,6 +14,25 @@ Bons trades e holds. Venceremos o Estado que nos fizeram vítimas ainda antes de
 
 <strong> Nosso Papel-Branco (não se preocupem, escrevemos intencionalmente assim) </strong>
 
+<strong>Perguntas:</strong>
+
+                                                                                                O que diferencia este projeto?
+
+                                                          0 movimentações na carteira provedora de liquidez, isso trás mais clareza e credibilidade para o projeto
+
+                                                                                                E a liquidez ?
+
+                                                         TODOS os projetos de criptomoedas os valores da liqudez são sacados por seus criadores,
+                                                               este projeto ficará mantido apenas por repasse de taxas de transações, sempre mantendo o valor de liquidez estável
+
+                                                                                                Importante!!!
+                                                                                                
+                                                         Este projeto contará com apenas 750.000/1.000.000 de tokens disponíveis para negociação.
+                                                         Todo restante será mantido para alimentação de pool e ficará intacto.
+                                                         Prezamos por clareza neste projeto e isso ajudará a mantê-lo com foco no objetivo da comunidade
+
+
+
 <strong>Primeira Etapa:</strong>
 Criação do token
 
