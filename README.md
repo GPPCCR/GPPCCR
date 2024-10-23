@@ -9,7 +9,7 @@
 <!---
 GPPCCR/GPPCCR is a ✨ special ✨ 
 --->
-<strong> Olá, bom ter vocês aqui. /strong> 
+<strong> Olá, bom ter vocês aqui. </strong> 
 Vamos falar deste projeto
 
 Porque migrá-lo para uma conta nova no github ?
