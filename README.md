@@ -10,3 +10,20 @@
 GPPCCR/GPPCCR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Olá, bom ter vocês aqui.
+Vamos falar deste projeto
+
+Porque migrá-lo para uma conta nova no github ?
+O projeto perderia seu anonimato como estava antes, por estar em umna conta vinculada diretamente ao desenvolvedor, não traria a credibilidade necessaria
+
+Referente as transações do token que já tivemnos na BSCscam são transações e testes que realizamos na pancakeswap entre carteiras controladas pelo desenvolvedor, por isso vocês conseguem ver uma certa quantia de hashs já registradas
+afinal, precisavamos entregar um projeto 100% seguro e funcional para a comunidade.
+
+
+Considerando avanços:
+Através de alguns calculos chegamos a um valor muito atrativo para a comunidade.
+Temos a emissão de 1 milhão de tokens = 1.000.000
+Teremos em circulação somente 750.000
+Através de alguns calculos estimamos que o seu valor chegue a 12x o valor inicial de venda logo ao atingir 50.000 unidades entregues à comunidade
+
+airdrop
